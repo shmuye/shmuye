@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Shmuye Ayalneh, software Engineering student and Full stack developer from Ethiopia.
+## Hi there 👋, I'm Shmuye Ayalneh, software Engineering student and Full stack developer.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmuye&show_icons=true&theme=radical)
 
