@@ -1,5 +1,5 @@
 ## Hi there, I'm Shmuye Ayalneh.👋
-   Software Engineer | Full Stack Web developer
+   Software Engineer | Full Stack Developer
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmuye&show_icons=true&theme=radical)
 
