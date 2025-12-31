@@ -16,6 +16,6 @@
 
 ## 📊 GitHub Stats
 
-![Shmuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShmuyeAyalneh&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShmuyeAyalneh&theme=radical)
+![Shmuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=shmuye&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shmuye&theme=radical)
 
