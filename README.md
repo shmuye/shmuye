@@ -32,39 +32,13 @@ I believe in **daily practice**, consistency, and learning by doing — turning 
 
 ## 💻 Skills
 
-### 🧠 Programming Languages
-- Python  
-- Java  
-- JavaScript  
-- TypeScript  
+**Languages:** Python, Java, JavaScript, TypeScript  
+**Frontend:** NextJs, React, Tailwind CSS, HTML, CSS  
+**Backend:** Node.js, NestJS, Express, PostgreSQL, MySQl, MongoDB , Prisma  
+**AI/ML:** NumPy, Pandas, Scikit-learn  
+**Tools:** Git, Figma, Docker
 
-### 🎨 Frontend Development
-- NextJs
-- React  
-- Tailwind CSS  
-- HTML5  
-- CSS3  
-
-### ⚙️ Backend Development
-- Node.js  
-- NestJS  
-- Express  
-- PostgreSQL
-- MySQL
-- MongoDB
-- Prisma
-
-### 🛠️ Tools & Technologies
-- Git & GitHub  
-- Figma
-- Docker
   
-### 🤖 AI & Machine Learning
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- Matplotlib  
-- Jupyter Notebook  
 
 > 🔧 *More skills and technologies will be added as I continue learning and building.*
 
