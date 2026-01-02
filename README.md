@@ -1,22 +1,88 @@
 # 👋 Hi, I'm Shmuye Ayalneh
 
-## 📝 Introduction
- Software Engineer | Full Stack Developer
+🚀 **Software Engineer | Full-Stack Developer | AI Enthusiast**
 
-## 🌐 Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shmuye-ayalneh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shudev27)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://shudev.netlify.app)
+---
+
+## 📝 Introduction
+
+I’m a **detail-oriented software engineering student and full-stack developer** with a strong passion for **problem-solving, clean code, and continuous learning**.
+
+I enjoy building **real-world applications**, exploring **both frontend and backend development**, and gradually diving into **AI and intelligent systems**.  
+I believe in **daily practice**, consistency, and learning by doing — turning ideas into working solutions one project at a time.
+
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/shmuye-ayalneh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/shudev27">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://shudev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 💻 Skills
-- **Languages:** Python, Java, JavaScript, Typescript
-- **Frontend:** React, Tailwind CSS, HTML, CSS
-- **Backend:** Node.js, NestJS, Express, PostgreSQL, Prisma
-- **Tools:** Git, VS Code, Docker
+
+### 🧠 Programming Languages
+- Python  
+- Java  
+- JavaScript  
+- TypeScript  
+
+### 🎨 Frontend Development
+- NextJs
+- React  
+- Tailwind CSS  
+- HTML5  
+- CSS3  
+
+### ⚙️ Backend Development
+- Node.js  
+- NestJS  
+- Express  
+- PostgreSQL
+- MySQL
+- MongoDB
+- Prisma
+
+### 🛠️ Tools & Technologies
+- Git & GitHub  
+- Figma
+- Docker
+  
+### 🤖 AI & Machine Learning
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- Matplotlib  
+- Jupyter Notebook  
+
+> 🔧 *More skills and technologies will be added as I continue learning and building.*
+
+---
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=shmuye)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=shmuye&theme=radical" />
+</p>
+
+---
+
+## ✨ Current Focus
+- Building scalable full-stack applications  
+- Exploring AI & machine learning   
 
 
+---
 
+⭐ **Feel free to explore my repositories and connect with me!**
