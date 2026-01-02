@@ -6,7 +6,7 @@
 
 ## 📝 Introduction
 
-I’m a **detail-oriented software engineering student and full-stack developer** with a strong passion for **problem-solving, clean code, and continuous learning**.
+I’m a **detail-oriented full-stack developer** with a strong passion for **problem-solving, clean code, and continuous learning**.
 
 I enjoy building **real-world applications**, exploring **both frontend and backend development**, and gradually diving into **AI and intelligent systems**.  
 I believe in **daily practice**, consistency, and learning by doing — turning ideas into working solutions one project at a time.
