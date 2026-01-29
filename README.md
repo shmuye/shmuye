@@ -48,6 +48,7 @@ I believe in **daily practice**, consistency, and learning by doing — turning 
 
 <p align="center">
   <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=shmuye&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?user=shmuye&show_icons=true&theme=radical)" />
 </p>
 
 ---
