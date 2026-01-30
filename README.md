@@ -27,7 +27,7 @@ I believe in **daily practice**, consistency, and learning by doing — turning 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?user=shmuye&show_icons=true&theme=radical).
+
 
 ---
 
