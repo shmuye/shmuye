@@ -23,7 +23,7 @@ I believe in **daily practice**, consistency, and learning by doing — turning 
   <a href="https://twitter.com/shudev27">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://shudev.netlify.app">
+  <a href="https://shudev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -50,6 +50,8 @@ I believe in **daily practice**, consistency, and learning by doing — turning 
 <p align="center">
   <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=shmuye&theme=radical" />
  </p>
+
+ [![Shmuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=shmuye)](https://github.com/shmuye/github-readme-stats)
 
 ---
 
