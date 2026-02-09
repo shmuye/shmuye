@@ -49,9 +49,11 @@ I believe in **daily practice**, consistency, and learning by doing — turning 
 
 <p align="center">
   <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=shmuye&theme=radical" />
- </p>
+</p>
 
- [![Shmuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=shmuye)](https://github.com/shmuye/github-readme-stats)
+ ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmuye&show_icons=true&theme=radical)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmuye&layout=compact&langs_count=8&theme=dracula)
 
 ---
 
