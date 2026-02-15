@@ -47,17 +47,13 @@ I believe in **daily practice**, consistency, and learning by doing — turning 
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   ![Streak Stats](https://streak-stats.demolab.com?user=shmuye&theme=radical)
   ![Top Languages](https://github-readme-stats-git-master-shmuye27-9137s-projects.vercel.app/api/top-langs?username=shmuye&langs_count=8&theme=radical)
   ![GitHub Stats](https://github-readme-stats-git-master-shmuye27-9137s-projects.vercel.app/api?username=shmuye&theme=radical)
-</p> -->
-
-<p align="center">
-  ![Streak Stats](https://streak-stats.demolab.com?user=shmuye&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shmuye&langs_count=8&theme=radical)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmuye&theme=radical)
 </p>
+
+
 
 
 
