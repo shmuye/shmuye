@@ -69,12 +69,14 @@ I believe in **daily practice**, consistency, and learning by doing — turning 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shmuye&langs_count=8&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shmuye&theme=radical&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shmuye&theme=radical&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shmuye&langs_count=8&theme=radical" />
 </p>
+
+
 ---
 
 ## ✨ Current Focus
